@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>5500</CruisingAlt>
+      <CreationDate>2021-07-26T19:35:08</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.14</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="6.940407" Lat="51.407272" Alt="405.00"/>
+      <Start>PARKING 4</Start>
+      <Type>Parking</Type>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Essen-Mulheim</Name>
+        <Ident>EDLE</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="6.939121" Lat="51.403019" Alt="405.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Aviosuperficie Piancada</Name>
+        <Ident>LIQV</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="13.072783" Lat="45.764442" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Jelas</Name>
+        <Ident>LDOR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="17.987299" Lat="45.155842" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Divci</Name>
+        <Ident>LYVA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="20.021563" Lat="44.297970" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Aerodrom Drobeta</Name>
+        <Ident>LRBI</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="22.851564" Lat="44.580250" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Comana Airstrip</Name>
+        <Ident>LRGR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="26.139400" Lat="44.200344" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Kocaeli Köseköy Airfield</Name>
+        <Ident>LTKO</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="30.006001" Lat="40.761246" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Ondokuzmayis Airport</Name>
+        <Ident>LTON</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="36.119930" Lat="41.511715" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Trabzon</Name>
+        <Ident>LTCG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="39.789692" Lat="40.995060" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Kutaisi West</Name>
+        <Ident>UG26</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="42.624786" Lat="42.248634" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Nataxtari Airfield</Name>
+        <Ident>UGMT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="44.713924" Lat="41.921318" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Karachala Airport</Name>
+        <Ident>UBQA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="48.966824" Lat="39.831905" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Cheleken East</Name>
+        <Ident>UT1J</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="53.199516" Lat="39.411312" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Ashkhabad Bezmein</Name>
+        <Ident>UT1G</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="58.195202" Lat="38.012039" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Mary North</Name>
+        <Ident>UT52</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="61.827061" Lat="37.664440" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Herat</Name>
+        <Ident>OAHR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="62.227970" Lat="34.207817" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Zabol</Name>
+        <Ident>OIZB</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="61.544125" Lat="31.097160" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Bandari</Name>
+        <Ident>OP12</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="65.160057" Lat="27.846724" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Uttarlai</Name>
+        <Ident>VIUT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="71.482292" Lat="25.812944" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Birlagram</Name>
+        <Ident>VA1C</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="75.420067" Lat="23.447309" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Lalitpur Airport</Name>
+        <Ident>VILP</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="78.416428" Lat="24.717163" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Ambikapur Airport</Name>
+        <Ident>VAAB</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="83.193787" Lat="22.992777" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Panagarh</Name>
+        <Ident>VEPH</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="87.428062" Lat="23.473886" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Shah Amanat Intl</Name>
+        <Ident>VGEG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="91.822205" Lat="22.257023" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Magway</Name>
+        <Ident>VYMW</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="94.968643" Lat="20.153593" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Hpa-An</Name>
+        <Ident>VYPA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="97.675179" Lat="16.894182" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Myeik</Name>
+        <Ident>VYME</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="98.621124" Lat="12.440075" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Phuket Intl</Name>
+        <Ident>VTSP</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="98.316841" Lat="8.113227" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Khoun Khan</Name>
+        <Ident>VTSA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="100.080208" Lat="6.661625" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Pulau Redang</Name>
+        <Ident>WMPR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="103.005836" Lat="5.768333" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Tarempa</Name>
+        <Ident>WIDM</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="106.258331" Lat="3.346945" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Susilo</Name>
+        <Ident>WIOS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="111.473495" Lat="0.063893" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Long Apung Airport</Name>
+        <Ident>WRLP</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="114.970039" Lat="1.705738" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Long Mawang Airport</Name>
+        <Ident>WRLN</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="114.904358" Lat="1.799286" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Bakalalan Airport</Name>
+        <Ident>WBGQ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="115.618889" Lat="3.974722" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Sanga Sanga</Name>
+        <Ident>RPMN</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="119.743614" Lat="5.048611" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Pagadian</Name>
+        <Ident>RPMP</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="123.459946" Lat="7.826705" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Tagbilaran</Name>
+        <Ident>RPVT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="123.853516" Lat="9.665469" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Masbate</Name>
+        <Ident>RPVJ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="123.630051" Lat="12.369724" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Pagbilao Grande Island</Name>
+        <Ident>RP12</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="121.743721" Lat="13.900235" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Baler</Name>
+        <Ident>RPUR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="121.503654" Lat="15.729539" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Tuguegarao</Name>
+        <Ident>RPUT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="121.733116" Lat="17.643515" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Lanyu</Name>
+        <Ident>RCLY</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="121.533638" Lat="22.028582" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Hualien</Name>
+        <Ident>RCYU</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="121.603607" Lat="24.024868" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Yonaguni</Name>
+        <Ident>ROYN</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="122.979774" Lat="24.467428" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Tarama</Name>
+        <Ident>RORT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="124.675438" Lat="24.653803" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Kerama</Name>
+        <Ident>ROKR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="127.293175" Lat="26.167049" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Amami</Name>
+        <Ident>RJKA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="129.712555" Lat="28.430643" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Tanegashima</Name>
+        <Ident>RJFG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="130.991592" Lat="30.605074" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Nyutabaru Aero</Name>
+        <Ident>RJFN</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="131.451736" Lat="32.083286" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Kochi</Name>
+        <Ident>RJOK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="133.669357" Lat="33.546059" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Nanki-Shirahama</Name>
+        <Ident>RJBD</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="135.364532" Lat="33.662304" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Akeno Aero</Name>
+        <Ident>RJOE</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="136.672699" Lat="34.532703" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Matsumoto</Name>
+        <Ident>RJAF</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="137.922653" Lat="36.166767" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Fukushima-Shi Airport</Name>
+        <Ident>RJFH</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="140.387695" Lat="37.823181" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Yamagata</Name>
+        <Ident>RJSC</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="140.371353" Lat="38.411880" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Hanamaki</Name>
+        <Ident>RJSI</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="141.135437" Lat="39.428692" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Ominato Aero</Name>
+        <Ident>RJSO</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="141.132141" Lat="41.232861" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Shiraoi Airport</Name>
+        <Ident>RJSB</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="141.254898" Lat="42.536858" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Kitami Airport</Name>
+        <Ident>RJKT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="143.730743" Lat="43.780022" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Mendeleyevo</Name>
+        <Ident>UHSM</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="145.685074" Lat="43.961067" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Burevestnik Airport</Name>
+        <Ident>UHSB</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="147.621902" Lat="44.919506" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Severo-Kuril'Sk Airport</Name>
+        <Ident>USEK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="153.261627" Lat="48.050613" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Severo-Kuril'Sk Airport</Name>
+        <Ident>USEU</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="155.759827" Lat="50.188736" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Ozernovskiy Airport</Name>
+        <Ident>UHQO</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="156.544128" Lat="51.499084" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Khalaktyrka Airport</Name>
+        <Ident>UHPH</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="158.721985" Lat="53.026287" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Milkovo Airport</Name>
+        <Ident>UHPM</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="158.548569" Lat="54.680775" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Ust-Kamchatsk Airport</Name>
+        <Ident>UHPK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="162.689957" Lat="56.238827" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Nikolskoye Airport</Name>
+        <Ident>UHPX</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="166.048309" Lat="55.178165" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Casco Cove CGS</Name>
+        <Ident>PAAT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="173.175583" Lat="52.832539" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Adak</Name>
+        <Ident>PADK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-176.646225" Lat="51.877949" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Atka</Name>
+        <Ident>PAAK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-174.206299" Lat="52.220535" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Cape Field At Fort Glenn</Name>
+        <Ident>PAUA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-167.892349" Lat="53.376980" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Unalaska</Name>
+        <Ident>PADU</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-166.545074" Lat="53.898933" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Akutan</Name>
+        <Ident>PAUT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-165.604126" Lat="54.144600" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Cold Bay</Name>
+        <Ident>PACD</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-162.723160" Lat="55.203938" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Nelson Lagoon</Name>
+        <Ident>PAOU</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-161.160400" Lat="56.007515" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Port Heiden</Name>
+        <Ident>PAPH</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-158.633331" Lat="56.959557" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Bartletts</Name>
+        <Ident>AK96</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-157.386459" Lat="57.516464" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Kulik Lake</Name>
+        <Ident>PAKL</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-155.097870" Lat="58.965607" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Homer</Name>
+        <Ident>PAHO</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-151.476715" Lat="59.645580" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Arness Lake</Name>
+        <Ident>6Z1</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-151.303741" Lat="60.645729" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Talachulitna River</Name>
+        <Ident>1AK6</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-151.397980" Lat="61.856140" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Davidson Strip</Name>
+        <Ident>45AA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-150.539612" Lat="62.162899" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Talkeetna</Name>
+        <Ident>PATK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-150.092712" Lat="62.321373" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Todds Strip</Name>
+        <Ident>5AK5</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-149.461716" Lat="61.657089" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Girdwood</Name>
+        <Ident>AQY</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-149.119354" Lat="60.969021" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Whittier</Name>
+        <Ident>PAWR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-148.719650" Lat="60.777168" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Chenega Bay</Name>
+        <Ident>PFCB</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-147.994736" Lat="60.078602" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Merle K (Mudhole) Smith</Name>
+        <Ident>PACV</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-145.477203" Lat="60.490498" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Icy Bay</Name>
+        <Ident>19AK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-141.660568" Lat="59.966087" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Yakutat</Name>
+        <Ident>PAYA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-139.661514" Lat="59.503201" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Sitka Rocky Gutierrez</Name>
+        <Ident>PASI</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-135.361603" Lat="57.047112" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Prince Rupert</Name>
+        <Ident>CYPR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-130.444733" Lat="54.285904" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Bella Coola</Name>
+        <Ident>CYBD</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-126.595810" Lat="52.387585" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Kamloops</Name>
+        <Ident>CYKA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-120.444160" Lat="50.702396" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Dorothy Scott</Name>
+        <Ident>0S7</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-119.411888" Lat="48.958931" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Shoshone Co</Name>
+        <Ident>S83</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-116.189079" Lat="47.547306" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Mackay Bar</Name>
+        <Ident>ID28</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-115.505127" Lat="45.379074" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Mackay</Name>
+        <Ident>U62</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-113.602371" Lat="43.910007" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Alpine Airport</Name>
+        <Ident>46U</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-111.038490" Lat="43.181793" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Red Reflet Ranch</Name>
+        <Ident>WY00</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-107.379196" Lat="43.967606" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Black Hills-Ice</Name>
+        <Ident>KSPF</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-103.784248" Lat="44.480007" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Gettysburg Muni</Name>
+        <Ident>0D8</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-99.953377" Lat="44.986828" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Madison Mun</Name>
+        <Ident>KMDS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-97.085037" Lat="44.016247" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Mankato Regl</Name>
+        <Ident>KMKT</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-93.919342" Lat="44.222057" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Wittman Regional Airport</Name>
+        <Ident>KOSH</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-88.556351" Lat="43.986275" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Gladwin Zettel Meml</Name>
+        <Ident>KGDW</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-84.475471" Lat="43.970009" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Huron</Name>
+        <Ident>CYCE</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-81.505356" Lat="43.284355" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Genesee Co</Name>
+        <Ident>KGVQ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-78.169724" Lat="43.031807" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Oswego Co</Name>
+        <Ident>KFZY</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-76.388107" Lat="43.350723" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Adirondack Rgnl</Name>
+        <Ident>KSLK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-74.206215" Lat="44.384590" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Trois-Rivieres</Name>
+        <Ident>CYRQ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-72.680458" Lat="46.351578" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Charlevoix</Name>
+        <Ident>CYML</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-70.223785" Lat="47.597591" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Forestville</Name>
+        <Ident>CYFE</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-69.097427" Lat="48.746067" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Sept-Iles</Name>
+        <Ident>CYZV</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-66.267052" Lat="50.223831" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Goose Bay</Name>
+        <Ident>CYYR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-60.423286" Lat="53.318939" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Rigolet</Name>
+        <Ident>CCZ2</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-58.456936" Lat="54.179520" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Narsarsuaq Airport</Name>
+        <Ident>BGBW</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-45.425682" Lat="61.159153" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Kulusuk Airport</Name>
+        <Ident>BGKK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-37.124802" Lat="65.573364" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Patreksfjordur</Name>
+        <Ident>BIPA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-23.965052" Lat="65.555824" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Sandskeið Airport</Name>
+        <Ident>BISS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-21.571886" Lat="64.059685" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Fagurhólsmýri Airport</Name>
+        <Ident>BIFM</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-16.642502" Lat="63.874557" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Benbecula</Name>
+        <Ident>EGPL</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-7.363017" Lat="57.481182" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>North Connel</Name>
+        <Ident>EGEO</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-5.399858" Lat="56.463718" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Charterhall Airfield</Name>
+        <Ident>EGFQ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-2.379610" Lat="55.707203" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Wombleton</Name>
+        <Ident>EGHX</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-0.972485" Lat="54.233170" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Conington</Name>
+        <Ident>EGSF</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-0.252490" Lat="52.466648" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Clacton</Name>
+        <Ident>EGSQ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="1.130096" Lat="51.785027" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Wizernes</Name>
+        <Ident>LFQN</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="2.232308" Lat="50.727695" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Oostmalle AB</Name>
+        <Ident>EBZR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="4.762409" Lat="51.269096" Alt="5500.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Essen-Mulheim</Name>
+        <Ident>EDLE</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="6.939121" Lat="51.403019" Alt="405.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
